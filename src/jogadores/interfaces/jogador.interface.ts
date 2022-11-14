@@ -4,7 +4,7 @@ export interface Jogador{
     readonly email:string;
     nome:string;
     ranking:string;
-    pisicaoRanking:number;
+    posicaoRanking:number;
     urlFotoJogador:string;
 
 }
